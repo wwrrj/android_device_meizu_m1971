@@ -1,3 +1,7 @@
+# Display
+lib64/libsdm-disp-apis.so
+lib64/vendor.display.color@1.0.so
+
 # NFC
 etc/permissions/com.nxp.nfc.xml
 framework/com.nxp.nfc.jar
