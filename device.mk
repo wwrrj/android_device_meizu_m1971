@@ -9,7 +9,7 @@ $(call inherit-product, vendor/meizu/m1971/m1971-vendor.mk)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-mokee
+    $(LOCAL_PATH)/overlay-lineage
 
 # Charger
 PRODUCT_COPY_FILES += \
